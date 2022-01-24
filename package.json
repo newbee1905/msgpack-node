@@ -54,11 +54,15 @@
 		{
 			"name": "Keiji Yoshimi",
 			"url": "https://github.com/walf443"
+		},
+		{
+			"name": "Le Minh Vu",
+			"url": "https://github.com/newbee1905",
 		}
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/msgpack/msgpack-node.git"
+		"url": "https://github.com/newbee1905/msgpack-node.git"
 	},
 	"main": "./lib/msgpack",
 	"directories": {
